@@ -1,4 +1,4 @@
-## OpenWeatherMap - подключение к API
+# OpenWeatherMap - подключение к API
 
 **weather_api_class.py** был разработан, чтобы обеспечить простой способ загрузки погодных запросов из API [https://openweathermap.org/](https://openweathermap.org/). Он состоит из двух классов:
 
