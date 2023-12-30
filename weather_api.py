@@ -168,7 +168,7 @@ class OpenWeatherApi:
                 return api_request.json()
 
 
-api_key = "b3b7ebe39c95c5f0a9e893f32a7d576d"
+api_key = "YOUR_API"
 cities_info = CitiesInformation()
 # print(cities_info)
 # список всех доступных городов
